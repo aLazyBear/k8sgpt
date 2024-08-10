@@ -1,2 +1,2 @@
-FROM ghcr.io/k8sgpt-ai/k8sgpt-operator:v0.1.0
+FROM kubesphere/ks-apiserver:v3.4.1
 MAINTAINER gongcheng.tang@sdlg.com
