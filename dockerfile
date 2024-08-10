@@ -1,2 +1,2 @@
-FROM skywalking/skywalking-oap:8.5.0
+FROM apache/skywalking-oap-server:8.9.1
 MAINTAINER gongcheng.tang@sdlg.com
