@@ -1,2 +1,2 @@
-FROM apache/skywalking-ui:8.9.1
+FROM kubesphere/ks-apiserver:v3.4.1
 MAINTAINER gongcheng.tang@sdlg.com
