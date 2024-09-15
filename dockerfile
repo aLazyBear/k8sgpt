@@ -1,2 +1,2 @@
-FROM kubesphere/nginx-ingress-controller:v1.3.1
+FROM docker.io/gitlab/gitlab-runner-helper:x86_64-e828d3bc
 MAINTAINER gongcheng.tang@sdlg.com
