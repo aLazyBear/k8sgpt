@@ -1,2 +1,2 @@
-FROM docker.io/gitlab/gitlab-runner-helper:x86_64-e828d3bc
+FROM apache/skywalking-oap-server:latest
 MAINTAINER gongcheng.tang@sdlg.com
