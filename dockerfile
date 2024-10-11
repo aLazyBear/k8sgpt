@@ -1,2 +1,2 @@
-FROM apache/skywalking-oap-server:latest
+FROM apache/skywalking-ui:latest
 MAINTAINER gongcheng.tang@sdlg.com
